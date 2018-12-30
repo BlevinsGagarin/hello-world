@@ -18,15 +18,3 @@ I am an engineer working as a research associate at the department for energy an
      .      |                       |      .
          * |                         | *     
 -----------|                         |-----------
-  .        |                         |        .    
-        *   |                       | *
-           _-\                     /-_    *
-     .  _-~ . \                   /   ~-_     
-     _-~       `\               /'*      ~-_  
-    ~           /`--___   ___--'\           ~
-           *  /        ---     .  \   jgs
-            /     *     |           \
-          /             |   *         \
-                     .  |        .
-                        |
-                        |
